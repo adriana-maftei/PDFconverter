@@ -2,6 +2,7 @@ This project is a PDF File Converter app made with Visual Studio & C# programmmi
 Main features I learned and build while developing this project:
 
 - working with XAML files
+- working with WPF (Windows Presentation Foundation)
 - using NuGet Packages (Syncfusion)
 
 The conversion types implemented: 
